@@ -1,0 +1,17 @@
+/docroot/app/config/parameters.yml
+/docroot/build/
+/docroot/phpunit.xml
+/docroot/var/*
+!docroot/var/cache
+/docroot/var/cache/*
+!docroot/var/cache/.gitkeep
+!docroot//var/logs
+/docroot/var/logs/*
+!docroot/var/logs/.gitkeep
+!docroot/var/sessions
+/docroot/var/sessions/*
+!docroot/var/sessions/.gitkeep
+!docroot/var/SymfonyRequirements.php
+/docroot/vendor/
+/docroot/web/bundles/
+mysql/
